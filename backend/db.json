@@ -1,0 +1,31 @@
+{
+  "user": [
+    {
+      "id": "722a",
+      "username": "Rakesh",
+      "useremail": "rakesh@gmail.com",
+      "phone": "9854673412",
+      "password": "rakesg1245",
+      "dateofbirth": "1998-06-05",
+      "country": "India"
+    },
+    {
+      "id": "8f68",
+      "username": "sajal",
+      "useremail": "sajal@gmail.com",
+      "phone": "6894598341",
+      "password": "sajal123",
+      "dateofbirth": "2000-08-03",
+      "country": "India"
+    },
+    {
+      "id": "093b",
+      "username": "Aniket",
+      "useremail": "aniket211299@gmail.com",
+      "phone": "09109894696",
+      "password": "212730",
+      "dateofbirth": "2000-12-21",
+      "country": "India"
+    }
+  ]
+}
